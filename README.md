@@ -1,8 +1,3 @@
-# Readme
-echo "# Leia-me" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
 **Descrição:**
 Este projeto tem como objetivo:
 
